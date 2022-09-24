@@ -1,2 +1,3 @@
-# repeating-basics-js
-Повторяю основы JavaScript
+Повторяю основы JavaScript по данному курсу(url:https://ru.hexlet.io/courses/js-basics) и если что-то подзабыла конспектирую сюда
+# Конспект по темам, которые не помню
+
